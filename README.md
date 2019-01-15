@@ -2,7 +2,7 @@
 
 ![image](https://github.com/guenchi/Matplotlib/blob/master/matplotlib.png)
 
-
+### powerful plotting library built on the popular Matplotlib
 
 ```
 (define x (np-arange (int 0) (int 10) (float 0.1)))
