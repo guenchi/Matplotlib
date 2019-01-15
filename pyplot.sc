@@ -38,19 +38,19 @@
         (only (darkart py ffi) py/run-simple-string))
 
 
-(define plt 
-    (begin
-        (py/run-simple-string "import sys")
-        (py/run-simple-string "sys.argv = ['']")
-        (py/run-simple-string "import matplotlib")
-        (py/run-simple-string "matplotlib.use('TkAgg')")
-        (py-import 'matplotlib.pyplot)))
+    (define plt 
+        (begin
+            (py/run-simple-string "import sys")
+            (py/run-simple-string "sys.argv = ['']")
+            (py/run-simple-string "import matplotlib")
+            (py/run-simple-string "matplotlib.use('TkAgg')")
+            (py-import 'matplotlib.pyplot)))
 
 
-(define *plot (py-get plt 'plot))
-(define *show (py-get plt 'show))
+    (define *plot (py-get plt 'plot))
+    (define *show (py-get plt 'show))
 
-(define plt-plot (py-func *plot))
-(define plt-show (py-func *show))
+    (define plt-plot (py-func *plot))
+    (define plt-show (py-func *show))
 
 )
