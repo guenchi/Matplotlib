@@ -34,8 +34,8 @@
 
     (import
         (chezscheme)
-        (darkart py ffi)
-        (darkart py call))
+        (darkart py call)
+        (only (darkart py ffi) py/run-simple-string))
 
 
 (define plt 
