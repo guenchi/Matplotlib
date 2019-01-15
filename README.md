@@ -14,3 +14,11 @@
 ```
 
 ![image](https://github.com/guenchi/Matplotlib/blob/master/Figure_1.png)
+
+### Depencies:
+
+https://github.com/guenchi/Darkart
+
+https://github.com/python/cpython
+
+https://github.com/matplotlib/matplotlib
