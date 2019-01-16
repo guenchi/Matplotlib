@@ -1,7 +1,5 @@
 # Matplotlib for Chez Scheme
 
-[Darkart](https://github.com/guenchi/Darkart) eco-system: [NumPy](https://github.com/guenchi/NumPy) ✅ [SciPy](https://github.com/guenchi/SciPy) :construction: [SymPy](https://github.com/guenchi/SymPy) :construction: [Matplotlib](https://github.com/guenchi/Matplotlib) ✅ [Pandas](https://github.com/guenchi/Pandas) :construction:
-
 ![image](https://github.com/guenchi/Matplotlib/blob/master/img/matplotlib.png)
 
 ### powerful plotting library built on the popular Matplotlib
@@ -31,3 +29,13 @@ https://github.com/guenchi/Darkart
 https://github.com/python/cpython
 
 https://github.com/matplotlib/matplotlib
+
+### The Darkart eco-system:
+
+https://github.com/guenchi/NumPy
+
+https://github.com/guenchi/SciPy
+
+https://github.com/guenchi/SymPy
+
+https://github.com/guenchi/Matplotlib
