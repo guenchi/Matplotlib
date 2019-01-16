@@ -30,7 +30,7 @@ https://github.com/python/cpython
 
 https://github.com/matplotlib/matplotlib
 
-### The Darkart eco-system:
+### The Darkart ecosystem:
 
 https://github.com/guenchi/NumPy
 
