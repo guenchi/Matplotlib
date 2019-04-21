@@ -4,6 +4,13 @@
 
 ### powerful plotting library built on the popular Matplotlib
 
+> before running the library, it is necessary to configure the backend.
+> Details: https://matplotlib.org/users/customizing.html
+Examples: $cat ~/.matplotlib/matplotlibrc
+```
+backend: TkAgg
+```
+
 ![image](https://github.com/guenchi/Matplotlib/blob/master/img/Figure_1.png)
 
 ```
