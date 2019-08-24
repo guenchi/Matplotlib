@@ -39,7 +39,7 @@
 
 
     (define plt 
-        (begin
+        (let ()
             (py/run-simple-string "import sys")
             (py/run-simple-string "sys.argv = ['']")
             (py/run-simple-string "import matplotlib")
