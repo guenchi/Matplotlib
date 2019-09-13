@@ -22,7 +22,7 @@
 (plt-show)
 ```
 
-### Depencies:
+## Depencies:
 
 https://github.com/guenchi/Darkart
 
@@ -30,14 +30,14 @@ https://github.com/python/cpython
 
 https://github.com/matplotlib/matplotlib
 
-### The Darkart ecosystem:
+## Darkart's ecosystem
 
-https://github.com/guenchi/NumPy
+- [NumPy](https://github.com/guenchi/NumPy)
 
-https://github.com/guenchi/SciPy
+- [SciPy](https://github.com/guenchi/SciPy)
 
-https://github.com/guenchi/SymPy
+- [SymPy](https://github.com/guenchi/SymPy)
 
-https://github.com/guenchi/Matplotlib
+- [Matplotlib](https://github.com/guenchi/Matplotlib)
 
-https://github.com/guenchi/Pandas
+- [Pandas](https://github.com/guenchi/Pandas)
