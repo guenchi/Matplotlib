@@ -24,11 +24,11 @@
 
 ## Depencies:
 
-https://github.com/guenchi/Darkart
+- [Darkart](https://github.com/guenchi/Darkart)
 
-https://github.com/python/cpython
+- [CPython](https://github.com/python/cpython)
 
-https://github.com/matplotlib/matplotlib
+- [Matplotlib](https://github.com/matplotlib/matplotlib)
 
 ## Darkart's ecosystem
 
