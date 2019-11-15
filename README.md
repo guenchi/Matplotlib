@@ -4,6 +4,8 @@
 
 ### powerful plotting library built on the popular Matplotlib
 
+***Notice: MacOS 10.14.6 has a backend bug: Tck.Tk will crash the MacOS so Matplotlib may not run on this version of system.***
+
 ![image](https://github.com/guenchi/Matplotlib/blob/gh-pages/img/Figure_1.png)
 
 ```
