@@ -46,10 +46,8 @@
       (py/run-simple-string "matplotlib.use('TkAgg')")
       (py-import 'matplotlib.pyplot)))
 
-  (define plot (py-get plt 'plot))
-  (define show (py-get plt 'show))
 
-  (define plt-plot (py-func plot))
-  (define plt-show (py-func show))
+  (define plt-plot (py-func plt 'plot))
+  (define plt-show (py-func plt 'show))
 
 )
